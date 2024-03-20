@@ -16,6 +16,7 @@ let addressesapi = [
         'https://addressesapi.090227.xyz/cmcc',
         'https://addressesapi.090227.xyz/CloudFlareYes',
 	'https://cf-workers-text2kv-3ur.pages.dev/ipzdy.txt?token=99aa4b32-db8a-4b0f-bed5-38bf0ecf8723',
+	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt',
 ];
 
 let DLS = 4;//速度下限
